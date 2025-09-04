@@ -20,6 +20,7 @@ Arranged the columns and appended the two sales tables to consolidate transactio
 
 * Sales[Customer] → Customers[CustomerID] (Many-to-One).
 * Sales[Product] → Products[ProductID] (Many-to-One).
+* Product[SupplierContact] → Suppliers[SupplierContact] (Many-to-One).
 
 ## Visualisation
 ### 1. Quick Dashboard
